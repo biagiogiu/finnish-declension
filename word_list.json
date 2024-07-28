@@ -1,0 +1,487 @@
+{
+    "words": [
+        {
+            "suomi": "arvata",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Indovinare",
+            "id": 2
+        },
+        {
+            "suomi": "sinne",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Là",
+            "id": 3
+        },
+        {
+            "suomi": "historia",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "storia",
+            "id": 4
+        },
+        {
+            "suomi": "vau",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Oh",
+            "id": 5
+        },
+        {
+            "suomi": "kai",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "probabilmente",
+            "id": 6
+        },
+        {
+            "suomi": "suostua",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Essere d'accordo",
+            "id": 7
+        },
+        {
+            "suomi": "pystyä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Potere",
+            "id": 8
+        },
+        {
+            "suomi": "nykyelämä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "vita moderna",
+            "id": 9
+        },
+        {
+            "suomi": "vaikka",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Sebbene",
+            "id": 10
+        },
+        {
+            "suomi": "selvitä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "chiarire",
+            "id": 11
+        },
+        {
+            "suomi": "asuttaa",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "colonizzare",
+            "id": 12
+        },
+        {
+            "suomi": "kivikausi",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "età della pietra",
+            "id": 13
+        },
+        {
+            "suomi": "eaa.",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "AVANTI CRISTO",
+            "id": 14
+        },
+        {
+            "suomi": "jääkausi",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "era glaciale",
+            "id": 15
+        },
+        {
+            "suomi": "rannikko",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "costiero",
+            "id": 16
+        },
+        {
+            "suomi": "vähitellen",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "gradualmente",
+            "id": 17
+        },
+        {
+            "suomi": "metästäjä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "cacciatore",
+            "id": 18
+        },
+        {
+            "suomi": "kalastaja",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "pescatore",
+            "id": 19
+        },
+        {
+            "suomi": "maanviljely",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "agricoltura",
+            "id": 20
+        },
+        {
+            "suomi": "pitkään",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "lungo",
+            "id": 21
+        },
+        {
+            "suomi": "harvaan asuttu",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "scarsamente popolata",
+            "id": 22
+        },
+        {
+            "suomi": "alue",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "la zona",
+            "id": 23
+        },
+        {
+            "suomi": "hallitsija",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "governate",
+            "id": 24
+        },
+        {
+            "suomi": "valta",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "energia",
+            "id": 25
+        },
+        {
+            "suomi": "kääntyä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "giro",
+            "id": 26
+        },
+        {
+            "suomi": "kristinusko",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "cristianesimo",
+            "id": 27
+        },
+        {
+            "suomi": "luterilainen",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "luterano",
+            "id": 28
+        },
+        {
+            "suomi": "usko",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "credenza",
+            "id": 29
+        },
+        {
+            "suomi": "kehittää",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "sviluppare",
+            "id": 30
+        },
+        {
+            "suomi": "kirjakieli",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "lingua letteraria",
+            "id": 31
+        },
+        {
+            "suomi": "päättyä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "FINE",
+            "id": 32
+        },
+        {
+            "suomi": "liittää",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "allegare",
+            "id": 33
+        },
+        {
+            "suomi": "hallinto",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "amministrazione",
+            "id": 34
+        },
+        {
+            "suomi": "laki",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "legge",
+            "id": 35
+        },
+        {
+            "suomi": "vallita",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "prevalere",
+            "id": 36
+        },
+        {
+            "suomi": "kansallisromanttinen",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "romantico nazionale",
+            "id": 37
+        },
+        {
+            "suomi": "aate",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "idea",
+            "id": 38
+        },
+        {
+            "suomi": "vaikuttaa",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "influenza",
+            "id": 39
+        },
+        {
+            "suomi": "kehittyä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "progresso",
+            "id": 40
+        },
+        {
+            "suomi": "voimakas",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "forte",
+            "id": 41
+        },
+        {
+            "suomi": "Kalevala",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Kalevala",
+            "id": 42
+        },
+        {
+            "suomi": "runo",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "poesia",
+            "id": 43
+        },
+        {
+            "suomi": "kerätä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "raccogliere",
+            "id": 44
+        },
+        {
+            "suomi": "kansalliseepos",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "epica nazionale",
+            "id": 45
+        },
+        {
+            "suomi": "vallankumous",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "rivoluzione",
+            "id": 46
+        },
+        {
+            "suomi": "itsenäistyä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "divenire indipendente",
+            "id": 47
+        },
+        {
+            "suomi": "sisällissota",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "guerra civile",
+            "id": 48
+        },
+        {
+            "suomi": "perustuslaki",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Costituzione",
+            "id": 49
+        },
+        {
+            "suomi": "tasavalta",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "repubblica",
+            "id": 50
+        },
+        {
+            "suomi": "käydä sotaa",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Guerra salariale",
+            "id": 51
+        },
+        {
+            "suomi": "talvisota",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Guerra d'inverno",
+            "id": 52
+        },
+        {
+            "suomi": "jatkosota",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "continuazione della guerra",
+            "id": 53
+        },
+        {
+            "suomi": "rauhansopimus",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "trattato di pace",
+            "id": 54
+        },
+        {
+            "suomi": "joutua",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Ottenere",
+            "id": 55
+        },
+        {
+            "suomi": "louvuttaa",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "cedere",
+            "id": 56
+        },
+        {
+            "suomi": "Neuvostoliitto",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Unione Sovietica",
+            "id": 57
+        },
+        {
+            "suomi": "usea",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "molti",
+            "id": 58
+        },
+        {
+            "suomi": "sotakorvaus",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "indennità di guerra",
+            "id": 59
+        },
+        {
+            "suomi": "uudelleen",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Ancora",
+            "id": 60
+        },
+        {
+            "suomi": "olympialaiset",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Olimpiadi",
+            "id": 61
+        },
+        {
+            "suomi": "kansainvälinen",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "internazionale",
+            "id": 62
+        },
+        {
+            "suomi": "eniten",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "più",
+            "id": 63
+        },
+        {
+            "suomi": "talous",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "economico",
+            "id": 64
+        },
+        {
+            "suomi": "yhteiskunta",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "società",
+            "id": 65
+        },
+        {
+            "suomi": "nykyisin",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Al giorno d'oggi",
+            "id": 66
+        },
+        {
+            "suomi": "hyvinvointivaltio",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "stato sociale",
+            "id": 67
+        },
+        {
+            "suomi": "liittyä",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "essere uniti",
+            "id": 68
+        },
+        {
+            "suomi": "Euroopan unioni",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "Unione Europea",
+            "id": 69
+        },
+        {
+            "suomi": "ottaa käyttöön",
+            "declinazione": "",
+            "esempio": "",
+            "italiano": "iniziare a utilizzare",
+            "id": 70
+        }
+    ]
+}
